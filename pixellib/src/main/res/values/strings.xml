@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PixelLib</string>
+
+
+    <string name="style">规格分类：</string>
+    <string name="type">规格类型：</string>
+    <string name="have_back">是否有回执</string>
+    <string name="photo_request">照片要求</string>
+    <string name="size">冲刷尺寸</string>
+    <string name="pixel_size">像素尺寸</string>
+    <string name="file_size">文件大小</string>
+    <string name="back_color">背景颜色</string>
+    <string name="other">其他</string>
+    <string name="info_error">信息不对，告诉我吧</string>
+    <string name="make_now">马上制作</string>
+    <string name="pixel">(像素)</string>
+</resources>
